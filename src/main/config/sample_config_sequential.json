@@ -1,0 +1,11 @@
+{
+  "startPages": ["https://www.neopets.com"],
+  "ignoredUrls": [],
+  "ignoredWords": ["^.{1,3}$"],
+  "parallelism": 1,
+  "implementationOverride": "",
+  "maxDepth": 5,
+  "timeoutSeconds": 2,
+  "popularWordCount": 3,
+  "resultPath": "crawlResults.json"
+}
